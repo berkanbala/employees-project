@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "name": "mustafa",
+      "department": "bilişim",
+      "salary": 1125,
+      "id": 16
+    },
+    {
+      "name": "hakan",
+      "department": "müzik",
+      "salary": 1789,
+      "id": 17
+    },
+    {
+      "name": "diablo",
+      "department": "ressam",
+      "salary": 999,
+      "id": 19
+    },
+    {
+      "name": "rota",
+      "department": "denizci",
+      "salary": 1699,
+      "id": 20
+    },
+    {
+      "name": "flow",
+      "department": "tornacı",
+      "salary": 1453,
+      "id": 21
+    },
+    {
+      "name": "aslan",
+      "department": "yolcu",
+      "salary": 2023,
+      "id": 22
+    }
+  ]
+}
